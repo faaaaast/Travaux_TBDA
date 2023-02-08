@@ -1,4 +1,14 @@
-#test {
-    color: black;
-    background-color: yellow;
+body{
+    background: red;
+}
+
+h1{
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    text-align: center;
+    /* Les tailles de polices doivent être en REM */
+    font-size: 2rem;
+    color: white;
+    text-decoration: underline;
+    font-family: cursive;
 }
