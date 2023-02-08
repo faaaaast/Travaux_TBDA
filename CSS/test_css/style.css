@@ -1,5 +1,4 @@
-
-h1{
+h1 {
     text-transform: uppercase;
     letter-spacing: 3px;
     text-align: center;
@@ -10,47 +9,47 @@ h1{
     font-family: cursive;
 }
 
-body{
+body {
     margin: 0px;
     padding: 0px;
 }
 
-.header{
+.header {
     background-color: #287265;
     height: 80px;
     margin: 20px;
 }
 
-nav ul li{
+nav ul li {
     list-style-type: none;
     display: inline-block;
     padding: 10px;
 }
 
-ul li a{
+ul li a {
     color: #fff;
     letter-spacing: 0.1rem;
 }
 
-ul li a:hover{
+ul li a:hover {
     color: #ffd358;
     text-decoration: underline;
 }
 
-.menu li{
+.menu li {
     float: left;
     padding: 35px;
 }
 
-.menu li a{
+.menu li a {
     text-decoration: none;
 }
 
-form{
+form {
     padding: 35px;
     text-align: right;
 }
 
-input[type="search"]{
+input[type="search"] {
     font-size: 17px;
 }
