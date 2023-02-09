@@ -84,7 +84,7 @@ form .pied-formulaire button:hover {
 }
 
 @media screen and (max-width:920px) {
-    form .corps-formulaire .droite{
+    form .corps-formulaire .droite{ 
         margin-left : 0px;
     }
     
