@@ -40,7 +40,8 @@ form .corps-formulaire .gauche .groupe input {
     margin-top: 5px;
     padding: 10px 5px 10px 30px;
     border: 1px solid #c9c9c9;
-    outline-color: #747cdf;
+    outline: none;
+    border: 2px solid #747cdf;
     border-radius: 5px;
 }
 form .corps-formulaire .gauche .groupe i {
